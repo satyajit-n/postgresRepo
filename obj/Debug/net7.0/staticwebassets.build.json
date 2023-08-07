@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mv/YOr6CXtlzRQzwJKU6OI3pZB9Zs1p4CVzrWtOnIjs=",
+  "Source": "CRUD_Operations_PostGresSQl",
+  "BasePath": "_content/CRUD_Operations_PostGresSQl",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
